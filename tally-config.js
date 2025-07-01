@@ -1,5 +1,4 @@
-<script>
-  TallyConfig = {
+TallyConfig = {
     formId: "wbMD9E",
     popup: {
       emoji: {
@@ -15,4 +14,3 @@
       doNotShowAfterSubmit: true
     }
   };
-</script>
